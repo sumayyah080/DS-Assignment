@@ -15,6 +15,6 @@ int main()
     print1ToN(n);
     return 0;
 }
-/* Output
+/* Output:
 Numbers from 1 to 5:
 1 2 3 4 5 */
